@@ -1,0 +1,19 @@
+.container{
+   
+    width: 20%;
+    height: 100vh;
+    float: left;   
+}
+.container-2{
+    
+    width: 20%;
+    height: 100vh;
+    margin: 0px 240px; 
+}
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2017/09/29/23/44/feedback-2800867_1280.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+    /* background-position: center; */
+}
